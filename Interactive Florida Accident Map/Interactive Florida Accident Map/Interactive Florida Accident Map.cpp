@@ -49,7 +49,7 @@ int main()
         window.display();
     }
 
-    TextureManager::Clear();a
+    TextureManager::Clear();
     
     return 0;
 };
