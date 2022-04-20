@@ -97,7 +97,7 @@ int main()
     readAccidents("Crashes_All_1.csv", hashTable);
     readAccidents("Crashes_All_2.csv", hashTable);
     readAccidents("Crashes_All_3.csv", hashTable);
-    initGraph("adjacencyList.csv", graph);
+    initGraph("AdjacencyList.csv", graph);
     
     //INITIALIZE THE STATS THAT WILL BE DISPLAYED
     hashTable.stats();
